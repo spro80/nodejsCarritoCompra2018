@@ -1,0 +1,19 @@
+{
+  "name": "nodejscarritocompra2018",
+  "version": "1.0.0",
+  "description": "Proyecto de Carrito de Compra en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spro80/nodejsCarritoCompra2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spro80/nodejsCarritoCompra2018/issues"
+  },
+  "homepage": "https://github.com/spro80/nodejsCarritoCompra2018#readme"
+}
